@@ -1,3 +1,5 @@
+*FYI from @jawz101 - The only thing I've changed is this little blurb I've included here.  I didn't make this app.  The original repo was at https://github.com/AnguisCaptor/PeerBlockForAndroid but it no longer exists.  I can't even remember how I found it but I wanted to snag a copy of the repo for posterity.  For some reason I think it might've resided on the now defunct Microsoft codeplex at one point. I just wanted to snag a copy of the repo for posterity.  The rest of this message was on the readme before I wrote this message.*
+
 # PeerBlockForAndroid
 An experimental project for Android, PeerBlock
 
